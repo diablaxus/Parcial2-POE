@@ -1,0 +1,10 @@
+Lista de comandos Git:
+
+git init-Para poder inicializar el git.
+git status-Para revisar el estado del git.
+git commit -m ""-Para hacer un commit con un mensaje de los cambios realizados.
+git log-Para revisar los commits realizados.
+git remote add origin-Para indicar la ruta de guardado.
+git push origin master-Para subir los cambios realizados a la rama master.
+git add juego.py-Para agregar el archivo del proyecto.
+Link: https://github.com/diablaxus/Parcial2-POE
